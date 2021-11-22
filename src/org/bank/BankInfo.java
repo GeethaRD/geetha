@@ -9,7 +9,7 @@ public class BankInfo extends AxisBank {
 
 	}
 	private void fixed() {
-		// TODO Auto-generated method stub
+		// TODO Auto-
 System.out.println("Fixed");
 	}
 	public static void main(String[] args) {
