@@ -3,8 +3,7 @@ package org.bank;
 public class AxisBank {
 
 	public void deposit() {
-		// TODO Auto-generated method stub
-
+//		edited
 		System.out.println("Deposit");
 	}
 }

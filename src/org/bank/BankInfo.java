@@ -2,14 +2,14 @@ package org.bank;
 
 public class BankInfo extends AxisBank {
 
-	private void rajesh() {
-		// TODO Auto-generated method stub
-
+	private void saving() {
+//edited
 		System.out.println("saving");
 
 	}
 
 	private void fixed() {
+//		edited
 		System.out.println("Fixed");
 	}
 
